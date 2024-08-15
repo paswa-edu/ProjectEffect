@@ -1,2 +1,2 @@
 # ProjectEffect
-Roblox game.
+Simple FPS, Tactical Roblox Expierence. Open Source
